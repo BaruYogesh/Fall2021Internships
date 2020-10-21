@@ -21,6 +21,6 @@ To contribute:
 
 [Summer 2021](https://github.com/Pitt-CSC/Summer2021-Internships)
 
-# [US Positions](https://github.com/BaruYoges/Fall2021Internships/US.md)
-# [Canada Positions](https://github.com/BaruYoges/Fall2021Internships/Canada.md)
+# [US Positions](https://github.com/BaruYogesh/Fall2021Internships/blob/master/US.md)
+# [Canada Positions](https://github.com/BaruYogesh/Fall2021Internships/blob/master/Canada.md)
 
