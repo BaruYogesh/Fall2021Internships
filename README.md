@@ -17,7 +17,7 @@ To contribute:
 
 ## Other Semesters
 
-[Spring 2021](https://github.com/BaruYoges/Spring2021Internships)
+[Spring 2021](https://github.com/BaruYogesh/Spring2021Internships)
 
 [Summer 2021](https://github.com/Pitt-CSC/Summer2021-Internships)
 
