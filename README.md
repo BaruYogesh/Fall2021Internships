@@ -1,10 +1,6 @@
 ﻿# Fall 2021 Internships
 2021 Fall Internships in Tech! Thanks to [ayushupneja](https://github.com/ayushupneja/fall2020internships) for making the list for Fall 2020. Thanks to [a37h](github.com/a37h) for the python script. Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration. Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for making a similar document for the 2020 season for more formatting inspiration! Utilize the Python Script to receive an outputted Excel-Friendly version
 
-> Sites used to find internships include LinkedIn, Indeed, Glassdoor, and AngelList (startups).
-Fall 2021 Tech Internships!
-> Positions are geared towards Computer Science majors who may have intersectional interests such as Design, Finance, Research, etc. 
-
 > All positions are open to anyone enrolled in a Bachelor's degree program.
 
 To contribute:
