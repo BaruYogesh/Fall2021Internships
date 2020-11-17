@@ -13,3 +13,4 @@
 | [Snapchat](https://www.snap.com/en-US/jobs) | Multiple Locations | Present | Internship application opens in waves and says summer (but you can ask to move to off season and they will) |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, NYC, London | Present | | 
 | [Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Present |  Can request to move internship off season and they will |
+| [TuSimple](https://boards.greenhouse.io/tusimple/jobs/4872634002) | San Diego, CA | Present | Spring, Summer and Fall, Masters & PhD Only | 
