@@ -8,7 +8,6 @@
 | [Chick-fil-A](https://www.linkedin.com/jobs/view/2181940153/) | Atlanta, GA | Present | | 
 | [Bubble](https://www.linkedin.com/jobs/view/2273368629/) | NYC | Present | | 
 | [Collins Aerospace](https://www.linkedin.com/jobs/view/2299353021) | Richardson, TX | Present | Must be US Citizen | 
-| [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Fall-2021-Co-op---Software-Engineer_JR78014?source=LinkedIn_Jobs) | Bellevue, WA | Present | | 
 | [Facebook](https://www.facebook.com/careers/jobs/654496918442526/) | Multiple Locations | Present | |
 | [Snapchat](https://www.snap.com/en-US/jobs) | Multiple Locations | Present | Internship application opens in waves and says summer (but you can ask to move to off season and they will) |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, NYC, London | Present | | 
