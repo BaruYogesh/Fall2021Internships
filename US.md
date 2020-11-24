@@ -13,3 +13,4 @@
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, NYC, London | Present | | 
 | [Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Present |  Can request to move internship off season and they will |
 | [TuSimple](https://boards.greenhouse.io/tusimple/jobs/4872634002) | San Diego, CA | Present | Spring, Summer and Fall, Masters & PhD Only, other positions [here] (https://boards.greenhouse.io/tusimple) |
+| [Root Insurance](https://www.joinroot.com/careers/50fed551-ef2a-4198-a32e-f02749f2cbe5/?lever-source=Indeed) | Columbus, OH | Present | Asks for Seniors for Fall/Spring, Raised $350M in September 2019 |
