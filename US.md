@@ -12,5 +12,7 @@
 | [Snapchat](https://www.snap.com/en-US/jobs) | Multiple Locations | Present | Internship application opens in waves and says summer (but you can ask to move to off season and they will) |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, NYC, London | Present | | 
 | [Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Present |  Can request to move internship off season and they will |
-| [TuSimple](https://boards.greenhouse.io/tusimple/jobs/4872634002) | San Diego, CA | Present | Spring, Summer and Fall, Masters & PhD Only, other positions [here] (https://boards.greenhouse.io/tusimple) |
+| [TuSimple](https://boards.greenhouse.io/tusimple/jobs/4872634002) | San Diego, CA | Present | Spring, Summer and Fall, Masters & PhD Only, other positions [here](https://boards.greenhouse.io/tusimple) |
 | [Root Insurance](https://www.joinroot.com/careers/50fed551-ef2a-4198-a32e-f02749f2cbe5/?lever-source=Indeed) | Columbus, OH | Present | Asks for Seniors for Fall/Spring, Raised $350M in September 2019 |
+| [Chick-fil-A](https://www.linkedin.com/jobs/view/2181940153) | Atlanta, GA | Present | Must commit to working 3 semesters and must have 3 remaining school semesters | 
+| [Ameren](https://www.linkedin.com/jobs/view/2320687464) | St. Louis, MO | Present | Open for Spring, Summer, and Fall. |
