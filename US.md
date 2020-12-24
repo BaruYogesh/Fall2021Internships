@@ -14,6 +14,6 @@
 | [TuSimple](https://boards.greenhouse.io/tusimple/jobs/4872634002) | San Diego, CA | Present | Spring, Summer and Fall, Masters & PhD Only, other positions [here](https://boards.greenhouse.io/tusimple) |
 | [Root Insurance](https://www.joinroot.com/careers/50fed551-ef2a-4198-a32e-f02749f2cbe5/?lever-source=Indeed) | Columbus, OH | Present | Asks for Seniors for Fall/Spring, Raised $350M in September 2019 |
 | [Chick-fil-A](https://www.linkedin.com/jobs/view/2181940153) | Atlanta, GA | Present | Must commit to working 3 semesters and must have 3 remaining school semesters | 
-| [Ameren](https://www.linkedin.com/jobs/view/2320687464) | St. Louis, MO | Present | Open for Spring, Summer, and Fall. |
+| [Ameren](https://www.linkedin.com/jobs/view/2320687464) | St. Louis, MO | CLosed | Open for Spring, Summer, and Fall. |
 | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=2530618&gh_src=240b46771) | Remote - USA | Present | July-December 2021 |
 | [PathAI](https://www.pathai.com/careers/5007708002?gh_jid=5007708002) | No Given Location | Present | May-August, June-December, or September-December |
