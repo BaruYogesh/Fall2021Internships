@@ -20,3 +20,4 @@
 | [Tesla](https://www.tesla.com/careers/search/?country=US&department=5&query=fall&region=5) | Palo Alto/Fremont, CA | Present | Various engineering/IT positions |
 | [Motional](https://jobs.lever.co/motional/b0025267-c197-4739-8bd8-0784b2e9e437/apply?lever-source=Glassdoor) | Boston, MA | Present | Test Infrastructure |
 | [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185?gh_src=857cau6q1) | Boston, MA | Present | Part-time for fall |
+| [Georgia Tech Research Institute](https://careers.gtri.gatech.edu/cw/en-us/job/496088/software-development-interncoop-summerfall-2021-elsys?src=JB-10160) | Shalimar, FL | Present | 6 months, US  citizenship required |
