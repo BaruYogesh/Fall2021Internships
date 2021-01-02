@@ -17,4 +17,5 @@
 | [Ameren](https://www.linkedin.com/jobs/view/2320687464) | St. Louis, MO | CLosed | Open for Spring, Summer, and Fall. |
 | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=2530618&gh_src=240b46771) | Remote - USA | Present | July-December 2021 |
 | [PathAI](https://www.pathai.com/careers/5007708002?gh_jid=5007708002) | No Given Location | Present | May-August, June-December, or September-December |
-| [Tesla](https://www.tesla.com/careers/search/?country=US&department=5&query=fall&region=5) | Palo Alto/Fremont, CA | Present | Various engineering/IT positions | 
+| [Tesla](https://www.tesla.com/careers/search/?country=US&department=5&query=fall&region=5) | Palo Alto/Fremont, CA | Present | Various engineering/IT positions |
+| [Motional](https://jobs.lever.co/motional/b0025267-c197-4739-8bd8-0784b2e9e437/apply?lever-source=Glassdoor) | Boston, MA | Present | Test Infrastructure | 
