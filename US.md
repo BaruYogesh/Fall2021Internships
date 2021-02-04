@@ -22,3 +22,5 @@
 | [Flex](https://www.linkedin.com/jobs/view/2383856784) | Boston, MA | Present | Required to be available for 6 months full-time |
 | [MyCase](https://www.linkedin.com/jobs/view/2397421589) | San Diego, CA | Present | June-December 2021 |
 | [SPX Corporation](https://www.linkedin.com/jobs/view/2247971416) | East Stroudsburg, PA | Present | Summer-Fall 2021 |
+| [Affirm](https://www.builtinsf.com/job/internship/software-engineering-intern-fall-2021/35515) | Remote | Present | |
+| [Amazon](https://www.amazon.jobs/en/jobs/1411367/amazon-robotics-fall-co-op-july-to-december-2021) | Boston/Cambrige Area, MA | Present | Robotics July-December |
