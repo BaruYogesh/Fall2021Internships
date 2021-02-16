@@ -2,7 +2,7 @@
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|--|
 | [AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&q2=&alertId=&locationsearch=&title=fall+2021&location=) | Austin, TX | Present | |
-| [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265933) | Boston, New York | Present | |
+| [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265933) | Boston, New York | Closed | |
 | [PagerDuty](https://www.ventureloop.com/ventureloop/job/1505818/pagerduty/social-impact-fellowship) | San Francisco, CA | Closed | Social Impact Fellowship | 
 | [Ocient](https://www.ocient.com/careers?gh_jid=4105471003) | Chicago, IL | Present | |
 | [Bubble](https://www.linkedin.com/jobs/view/2273368629/) | NYC | Present | | 
