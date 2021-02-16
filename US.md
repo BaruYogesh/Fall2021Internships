@@ -24,3 +24,19 @@
 | [SPX Corporation](https://www.linkedin.com/jobs/view/2247971416) | East Stroudsburg, PA | Present | Summer-Fall 2021 |
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/4326084003) | Remote | Present | |
 | [Amazon](https://www.amazon.jobs/en/jobs/1411367/amazon-robotics-fall-co-op-july-to-december-2021) | Boston/Cambrige Area, MA | Present | Robotics July-December |
+| [PwC](https://jobs.us.pwc.com/job/-/-/932/18774139?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CObJrdyz7e4CFcXA9gIdTfgIjg) | Multiple | Present | Summer/Fall
+| [Text-Em-All](https://www.linkedin.com/jobs/view/2415498949) | Frisco, TX | Present | | 
+| [TREW](https://www.linkedin.com/jobs/view/2421396066) | Mason, OH | Present | | 
+| [Salsify](https://www.linkedin.com/jobs/view/2416545495) | Boston, MA | Present | | 
+| [Patientco](https://www.linkedin.com/jobs/view/2420708669) | Atlanta, GA | Present | |
+| [IBM](https://careers.ibm.com/ShowJob/Id/1046040/Back%20End%20Software%20Developer%20Co'op%20%20(May%20%20%20December)%202021) | Multiple | Present | May-December | 
+| [Battelle](https://www.linkedin.com/jobs/view/2420435759) | Columbus, OH | Present | | 
+| [Larkin Community Hospital](https://larkin-community-hospital.talentify.io/job/software-developer-co-op-intern-cincinnati--larkin-community-hospital-9200050286926-1?utm_source=linkedin_organic&utm_medium=Xml&tdd=aDM1LGoxbzFxaixlcHJvNjAyYTJhMDA1Njc1OTQxNzAyMTgzMQ) | Cincinnati, OH | Present | Fall 2021 or Spring 2022 | 
+| [Leidos](https://careers.leidos.com/jobs/5609435-semester-long-cyber-software-engineer-intern?tm_job=R-00040877&tm_event=view&tm_company=2502&bid=56) | Reston, VA | Present | Fall 2021 |
+| [Vectorworks](https://www.linkedin.com/jobs/view/2410465555) | Columbia, MD | Present | Sept 13-Dec 17 |
+| [iRobot](https://www.linkedin.com/jobs/view/2376190741) | Remote - Oregon | Present | | 
+| [Moen Incorporated](https://www.linkedin.com/jobs/view/2419039532) | Cleveland, OH | Present | |
+| [Textron](https://www.linkedin.com/jobs/view/2385821333) | Wilmington, MA | Present | | 
+| [Georgia Tech Research Institute](https://www.linkedin.com/jobs/view/2243918062) | Shalimar, MA | Present | | 
+| [U.S. Bank](https://www.linkedin.com/jobs/view/2243918062) | Atlanta, GA | Present | | 
+| [Kinze Manufacturing Inc.](https://www.linkedin.com/jobs/view/2396187584)| Williamsburg, IA | Present | | 
