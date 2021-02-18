@@ -7,7 +7,7 @@
 | [Ocient](https://www.ocient.com/careers?gh_jid=4105471003) | Chicago, IL | Present | |
 | [Bubble](https://www.linkedin.com/jobs/view/2273368629/) | NYC | Present | | 
 | [Collins Aerospace](https://www.linkedin.com/jobs/view/2299353021) | Richardson, TX | Present | Must be US Citizen | 
-| [Facebook](https://www.facebook.com/careers/jobs/654496918442526/) | Multiple Locations | Present | |
+| [Facebook](https://www.facebook.com/careers/jobs/654496918442526/) | Multiple Locations | Closed | Completely Full Fall 2021 |
 | [Snapchat](https://www.snap.com/en-US/jobs) | Multiple Locations | Present | Internship application opens in waves and says summer (but you can ask to move to off season and they will) |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, NYC, London | Present | | 
 | [Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Present |  Can request to move internship off season and they will |
@@ -38,5 +38,5 @@
 | [Moen Incorporated](https://www.linkedin.com/jobs/view/2419039532) | Cleveland, OH | Present | |
 | [Textron](https://www.linkedin.com/jobs/view/2385821333) | Wilmington, MA | Present | | 
 | [Georgia Tech Research Institute](https://www.linkedin.com/jobs/view/2243918062) | Shalimar, MA | Present | | 
-| [U.S. Bank](https://www.linkedin.com/jobs/view/2243918062) | Atlanta, GA | Present | | 
+| [U.S. Bank](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/Fall-2021-Co-op-Program---Technology-and-Operations-Services---Innovation-Analyst--Atlanta--GA-_2021-0003636) | Atlanta, GA | Present | | 
 | [Kinze Manufacturing Inc.](https://www.linkedin.com/jobs/view/2396187584)| Williamsburg, IA | Present | | 
