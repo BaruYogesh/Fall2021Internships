@@ -40,3 +40,5 @@
 | [Georgia Tech Research Institute](https://www.linkedin.com/jobs/view/2243918062) | Shalimar, MA | Present | | 
 | [U.S. Bank](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/Fall-2021-Co-op-Program---Technology-and-Operations-Services---Innovation-Analyst--Atlanta--GA-_2021-0003636) | Atlanta, GA | Present | | 
 | [Kinze Manufacturing Inc.](https://www.linkedin.com/jobs/view/2396187584)| Williamsburg, IA | Present | | 
+| [Greenzie](https://www.linkedin.com/jobs/view/2428960304) | Atlanta, GA | Present | | 
+| [ClearedJobs.net](https://www.linkedin.com/jobs/view/2384341741) | Reston, VA | Present | |
