@@ -22,7 +22,6 @@
 | [Flex](https://www.linkedin.com/jobs/view/2383856784) | Boston, MA | Present | Required to be available for 6 months full-time |
 | [MyCase](https://www.linkedin.com/jobs/view/2397421589) | San Diego, CA | Closed | June-December 2021 |
 | [SPX Corporation](https://www.linkedin.com/jobs/view/2247971416) | East Stroudsburg, PA | Present | Summer-Fall 2021 |
-| [Affirm](https://boards.greenhouse.io/affirm/jobs/4326084003) | Remote | Present | |
 | [Amazon](https://www.amazon.jobs/en/jobs/1411367/amazon-robotics-fall-co-op-july-to-december-2021) | Boston/Cambrige Area, MA | Present | Robotics July-December |
 | [PwC](https://jobs.us.pwc.com/job/-/-/932/18774139?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CObJrdyz7e4CFcXA9gIdTfgIjg) | Multiple | Present | Summer/Fall
 | [Text-Em-All](https://www.linkedin.com/jobs/view/2415498949) | Frisco, TX | Present | | 
