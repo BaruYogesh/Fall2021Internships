@@ -42,3 +42,4 @@
 | [Kinze Manufacturing Inc.](https://www.linkedin.com/jobs/view/2396187584)| Williamsburg, IA | Present | | 
 | [Greenzie](https://www.linkedin.com/jobs/view/2428960304) | Atlanta, GA | Present | | 
 | [ClearedJobs.net](https://www.linkedin.com/jobs/view/2384341741) | Reston, VA | Present | |
+| [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=497903) | Morrisville, NC | Present | Spring/Summer and Summer/Fall rotations available | 
