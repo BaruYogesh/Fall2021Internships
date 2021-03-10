@@ -5,7 +5,7 @@
 | [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265933) | Boston, New York | Closed | |
 | [PagerDuty](https://www.ventureloop.com/ventureloop/job/1505818/pagerduty/social-impact-fellowship) | San Francisco, CA | Closed | Social Impact Fellowship | 
 | [Ocient](https://www.ocient.com/careers?gh_jid=4105471003) | Chicago, IL | Present | |
-| [Bubble](https://www.linkedin.com/jobs/view/2273368629/) | NYC | Present | | 
+| [Bubble](https://www.linkedin.com/jobs/view/2273368629/) | NYC | Closed | | 
 | [Collins Aerospace](https://www.linkedin.com/jobs/view/2299353021) | Richardson, TX | Present | Must be US Citizen | 
 | [Facebook](https://www.facebook.com/careers/jobs/654496918442526/) | Multiple Locations | Closed | Completely Full Fall 2021 |
 | [Snapchat](https://www.snap.com/en-US/jobs) | Multiple Locations | Present | Internship application opens in waves and says summer (but you can ask to move to off season and they will) |
