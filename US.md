@@ -44,3 +44,4 @@
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=497903) | Morrisville, NC | Present | Spring/Summer and Summer/Fall rotations available | 
 | [Paypal](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Android-Software-Engineering-Co-Op_R0066864?source=PayPalJobs) | Boston, MA | Present | May - December 2021 | 
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/4405739003) | Remote - USA | Present | Fall 2021 |
+| [GE Aviation](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3557924EXTERNALENGLOBAL/GE-Aviation-Digital-Technology-Intern-Fall-2021?utm_source=linkedin&codes=linkedin&utm_medium=phenom-feeds) | Cincinnati, OH / Van Buren Township, MI | Present | Citizenship/Permanent Residency Required |
