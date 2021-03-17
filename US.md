@@ -45,3 +45,6 @@
 | [Paypal](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Android-Software-Engineering-Co-Op_R0066864?source=PayPalJobs) | Boston, MA | Present | May - December 2021 | 
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/4405739003) | Remote - USA | Present | Fall 2021 |
 | [GE Aviation](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3557924EXTERNALENGLOBAL/GE-Aviation-Digital-Technology-Intern-Fall-2021?utm_source=linkedin&codes=linkedin&utm_medium=phenom-feeds) | Cincinnati, OH / Van Buren Township, MI | Present | Citizenship/Permanent Residency Required |
+| [Johnson & Johnson](https://jobs.jnj.com/jobs?page=1&keywords=fall&location=&limit=25) | Multiple | Present | Multiple Kinds of Roles | 
+| [The Raymond Corporation](https://recruiting.adp.com/srccar/public/RTI.home?c=1127807&d=ExternalCareerSite&rb=INDEED&r=5000676596906) | Greene, NY | Present | Both Summer and Fall |
+| [Teradyne](https://jobs.teradyne.com/job/North-Reading-Applications-Product-Support-Engineering-Coop-Fall-2021-MA-01864/722635000/?feedId=320000&utm_source=Indeed&codes=WBIND) | North Reading, MA | Present | App/Product Support Engineering | 
