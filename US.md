@@ -43,7 +43,7 @@
 | [ClearedJobs.net](https://www.linkedin.com/jobs/view/2384341741) | Reston, VA | Present | |
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=497903) | Morrisville, NC | Present | Spring/Summer and Summer/Fall rotations available | 
 | [Paypal](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Android-Software-Engineering-Co-Op_R0066864?source=PayPalJobs) | Boston, MA | Present | May - December 2021 | 
-| [Affirm](https://boards.greenhouse.io/affirm/jobs/4405739003) | Remote - USA | Present | Fall 2021 |
+| [Affirm](https://boards.greenhouse.io/affirm/jobs/4405739003) | Remote - USA | Closed | Fall 2021 |
 | [GE Aviation](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3557924EXTERNALENGLOBAL/GE-Aviation-Digital-Technology-Intern-Fall-2021?utm_source=linkedin&codes=linkedin&utm_medium=phenom-feeds) | Cincinnati, OH / Van Buren Township, MI | Present | Citizenship/Permanent Residency Required |
 | [Johnson & Johnson](https://jobs.jnj.com/jobs?page=1&keywords=fall&location=&limit=25) | Multiple | Present | Multiple Kinds of Roles | 
 | [The Raymond Corporation](https://recruiting.adp.com/srccar/public/RTI.home?c=1127807&d=ExternalCareerSite&rb=INDEED&r=5000676596906) | Greene, NY | Present | Both Summer and Fall |
