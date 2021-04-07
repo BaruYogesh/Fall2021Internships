@@ -1,7 +1,6 @@
 # US Positions
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|--|
-| [Motional](https://boards.greenhouse.io/motional/jobs/4309689003) | Boston, MA | Present | |
 | [AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&q2=&alertId=&locationsearch=&title=fall+2021&location=) | Austin, TX | Present | |
 | [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265933) | Boston, New York | Closed | |
 | [PagerDuty](https://www.ventureloop.com/ventureloop/job/1505818/pagerduty/social-impact-fellowship) | San Francisco, CA | Closed | Social Impact Fellowship | 
@@ -50,3 +49,4 @@
 | [The Raymond Corporation](https://recruiting.adp.com/srccar/public/RTI.home?c=1127807&d=ExternalCareerSite&rb=INDEED&r=5000676596906) | Greene, NY | Present | Both Summer and Fall |
 | [Teradyne](https://jobs.teradyne.com/job/North-Reading-Applications-Product-Support-Engineering-Coop-Fall-2021-MA-01864/722635000/?feedId=320000&utm_source=Indeed&codes=WBIND) | North Reading, MA | Present | App/Product Support Engineering | 
 | [Fractal](https://www.notion.so/Fractal-Job-Board-a39b64712f094c7785f588053fc283a9) | Remote/NYC | Present | Backend, Full-Stack, and Systems positions |
+| [Motional](https://boards.greenhouse.io/motional/jobs/4309689003) | Boston, MA | Present | |
