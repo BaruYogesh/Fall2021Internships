@@ -17,7 +17,7 @@
 | [Ameren](https://www.linkedin.com/jobs/view/2320687464) | St. Louis, MO | CLosed | Open for Spring, Summer, and Fall. |
 | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=2530618&gh_src=240b46771) | Remote - USA | Present | July-December 2021 |
 | [PathAI](https://www.pathai.com/careers/5007708002?gh_jid=5007708002) | No Given Location | Present | May-August, June-December, or September-December |
-| [Tesla](https://www.tesla.com/careers/search/?country=US&department=5&query=fall%202021) | Palo Alto, CA | Present | Many Positions | 
+| [Tesla](https://www.tesla.com/careers/search/?country=US&department=3&query=fall%202021) | Palo Alto, CA | Present | Many Positions | 
 | [Credit Karma](https://www.linkedin.com/jobs/view/2373068300) | Charlotte, NC | Closed | Must be willing to relocate to Charlotte, NC |
 | [Flex](https://www.linkedin.com/jobs/view/2383856784) | Boston, MA | Closed | Required to be available for 6 months full-time |
 | [MyCase](https://www.linkedin.com/jobs/view/2397421589) | San Diego, CA | Closed | June-December 2021 |
