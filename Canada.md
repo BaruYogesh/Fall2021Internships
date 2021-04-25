@@ -5,3 +5,4 @@
 | NVIDIA | Toronto, ON | Present | [QA](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/Software-QA-Engineer-Intern---Fall-2021_JR1933351-1?source=jobboardindeed), [Performance Analyst](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/Performance-Analyst-Intern---Fall-2021_JR1933341-1?source=jobboardindeed) |
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/4326084003) | Remote | Present | |
 | [IBM](https://careers.ibm.com/job/12671831/software-engineer-intern-4-months-toronto-ca/) | Markham, ON | Present | 4 months | 
+| [Splunk](https://www.splunk.com/en_us/careers/jobs/software-development-engineering-backend-19225.html) | Toronto | Present | Backend | 
