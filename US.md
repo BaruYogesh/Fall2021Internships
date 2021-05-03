@@ -52,4 +52,5 @@
 | [Motional](https://boards.greenhouse.io/motional/jobs/4309689003) | Boston, MA | Present | |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Engineer-Fall-2021-Internship-Bachelors-Meraki/1325763?source=LinkedIn) | San Francisco | Present | SRE |
 | [Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=3067803) | No Location Listed | Closed | | 
-| [Shopify](https://www.shopify.ca/careers/interns#Jobs) | Remote | Present |
+| [Shopify](https://www.shopify.ca/careers/interns#Jobs) | Remote | Present | |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/5133784002/) | Remote | Present | Must be enrolled in a co-op program at your university | 
