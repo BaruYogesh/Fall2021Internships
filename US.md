@@ -54,3 +54,5 @@
 | [Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=3067803) | No Location Listed | Closed | | 
 | [Shopify](https://www.shopify.ca/careers/interns#Jobs) | Remote | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5133784002/) | Remote | Present | Must be enrolled in a co-op program at your university | 
+| [LinkedIn](https://www.linkedin.com/jobs/view/2506116012/) | Multiple Locations | Present | |
+| [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer-Intern---Fall-2021_JR1941950-1) | Santa Clara, CA | Present | |
