@@ -6,3 +6,5 @@
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/4326084003) | Remote | Present | |
 | [IBM](https://careers.ibm.com/job/12671831/software-engineer-intern-4-months-toronto-ca/) | Markham, ON | Present | 4 months | 
 | [Splunk](https://www.splunk.com/en_us/careers/jobs/software-development-engineering-backend-19225.html) | Toronto | Present | Backend | 
+| [Ada](https://jobs.lever.co/ada/7c05c9c8-e692-4d13-bef7-6ee7cd5dc08b?lever-source=LinkedInJobs) | Toronto | Present | Full Stack | 
+| [ClearBanc](https://boards.greenhouse.io/clearbanc/jobs/4319169003?gh_src=ece650753us) | Toronto | Present | | 
