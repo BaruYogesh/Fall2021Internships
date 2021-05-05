@@ -42,17 +42,17 @@
 | [Greenzie](https://www.linkedin.com/jobs/view/2428960304) | Atlanta, GA | Closed | | 
 | [ClearedJobs.net](https://www.linkedin.com/jobs/view/2384341741) | Reston, VA | Present | |
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=497903) | Morrisville, NC | Closed | | 
-| [Paypal](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Android-Software-Engineering-Co-Op_R0066864?source=PayPalJobs) | Boston, MA | Present | May - December 2021 | 
+| [Paypal](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Android-Software-Engineering-Co-Op_R0066864?source=PayPalJobs) | Boston, MA | Closed | May - December 2021 | 
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/4405739003) | Remote - USA | Closed | Fall 2021 |
-| [GE Aviation](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3557924EXTERNALENGLOBAL/GE-Aviation-Digital-Technology-Intern-Fall-2021?utm_source=linkedin&codes=linkedin&utm_medium=phenom-feeds) | Cincinnati, OH / Van Buren Township, MI | Present | Citizenship/Permanent Residency Required |
+| [GE Aviation](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3557924EXTERNALENGLOBAL/GE-Aviation-Digital-Technology-Intern-Fall-2021?utm_source=linkedin&codes=linkedin&utm_medium=phenom-feeds) | Cincinnati, OH / Van Buren Township, MI | Closed | Citizenship/Permanent Residency Required |
 | [Johnson & Johnson](https://jobs.jnj.com/jobs?page=1&keywords=fall&location=&limit=25) | Multiple | Present | Multiple Kinds of Roles | 
-| [The Raymond Corporation](https://recruiting.adp.com/srccar/public/RTI.home?c=1127807&d=ExternalCareerSite&rb=INDEED&r=5000676596906) | Greene, NY | Present | Both Summer and Fall |
-| [Teradyne](https://jobs.teradyne.com/job/North-Reading-Applications-Product-Support-Engineering-Coop-Fall-2021-MA-01864/722635000/?feedId=320000&utm_source=Indeed&codes=WBIND) | North Reading, MA | Present | App/Product Support Engineering | 
+| [The Raymond Corporation](https://recruiting.adp.com/srccar/public/RTI.home?c=1127807&d=ExternalCareerSite&rb=INDEED&r=5000676596906) | Greene, NY | Closed | Both Summer and Fall |
+| [Teradyne](https://jobs.teradyne.com/job/North-Reading-Applications-Product-Support-Engineering-Coop-Fall-2021-MA-01864/722635000/?feedId=320000&utm_source=Indeed&codes=WBIND) | North Reading, MA | Closed | App/Product Support Engineering | 
 | [Fractal](https://www.notion.so/Fractal-Job-Board-a39b64712f094c7785f588053fc283a9) | Remote/NYC | Present | Backend, Full-Stack, and Systems positions |
 | [Motional](https://boards.greenhouse.io/motional/jobs/4309689003) | Boston, MA | Present | |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Engineer-Fall-2021-Internship-Bachelors-Meraki/1325763?source=LinkedIn) | San Francisco | Present | SRE |
 | [Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=3067803) | No Location Listed | Closed | | 
-| [Shopify](https://www.shopify.ca/careers/interns#Jobs) | Remote | Present | Hiring challenges due on 5/9 |
+| [Shopify](https://www.shopify.ca/careers/interns#Jobs) | Remote | Until 5/9 | Hiring challenges due on 5/9 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5133784002/) | Remote | Present | Must be enrolled in a co-op program at your university | 
 | [LinkedIn](https://www.linkedin.com/jobs/view/2506116012/) | Multiple Locations | Present | |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer-Intern---Fall-2021_JR1941950-1) | Santa Clara, CA | Present | |
