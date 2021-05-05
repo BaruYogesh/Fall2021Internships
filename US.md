@@ -57,3 +57,4 @@
 | [LinkedIn](https://www.linkedin.com/jobs/view/2506116012/) | Multiple Locations | Present | |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer-Intern---Fall-2021_JR1941950-1) | Santa Clara, CA | Present | |
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | Multiple | Present | |
+| [Coursera](https://jobs.lever.co/coursera?commitment=Intern) | Remote | Present | |
