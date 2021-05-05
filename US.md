@@ -56,4 +56,4 @@
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5133784002/) | Remote | Present | Must be enrolled in a co-op program at your university | 
 | [LinkedIn](https://www.linkedin.com/jobs/view/2506116012/) | Multiple Locations | Present | |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer-Intern---Fall-2021_JR1941950-1) | Santa Clara, CA | Present | |
-| [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS5044426002EXTERNALENUS/Software-Engineer-Intern-Core-Engineering-Fall-2021) | Bellevue, WA or San Mateo, CA | |
+| [Snowflake Core](https://careers.snowflake.com/us/en/job/SNCOUS5044426002EXTERNALENUS/Software-Engineer-Intern-Core-Engineering-Fall-2021) | Bellevue, WA or San Mateo, CA | |
