@@ -8,3 +8,4 @@
 | [Splunk](https://www.splunk.com/en_us/careers/jobs/software-development-engineering-backend-19225.html) | Toronto | Present | Backend | 
 | [Ada](https://jobs.lever.co/ada/7c05c9c8-e692-4d13-bef7-6ee7cd5dc08b?lever-source=LinkedInJobs) | Toronto | Present | Full Stack | 
 | [ClearBanc](https://boards.greenhouse.io/clearbanc/jobs/4319169003?gh_src=ece650753us) | Toronto | Present | | 
+| [HootSuite](https://careers.hootsuite.com/global/en/job/2579789?gh_jid=2579789&gh_src=8tmbhj1) | Various Cities | Present | | 
