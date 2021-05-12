@@ -9,3 +9,4 @@
 | [Ada](https://jobs.lever.co/ada/7c05c9c8-e692-4d13-bef7-6ee7cd5dc08b?lever-source=LinkedInJobs) | Toronto | Present | Full Stack | 
 | [ClearBanc](https://boards.greenhouse.io/clearbanc/jobs/4319169003?gh_src=ece650753us) | Toronto | Present | | 
 | [Zynga](https://www.zynga.com/job-listing/engineering-intern-central-tech-payments-fall-2021) | Toronto | Present | Positions are product based, check their [Job Postings](https://www.zynga.com/jobs/job-openings/) and filter by Internships under all displines to find other product positions. |
+| [Activision](https://careers.activision.com/job/ACPUUSR006687EXTERNAL/Software-Development-Intern-Vancouver) | Vancouver | Present | |
