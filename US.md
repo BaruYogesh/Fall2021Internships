@@ -65,3 +65,4 @@
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5076311002?gh_src=13c38d562us) | Mountain View, CA | Present | |
 | [Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Engineering/job/Bellevue-WA/Infrastructure-Engineer-Intern--Fall-2021-_R4492-1) | Bellevue, WA | Present | |
 | [Rubrik](https://www.rubrik.com/en/company/careers/departments/job.3058806?gh_jid=3058806) | Palo Alto, CA | Present | |
+| [Zipline](https://flyzipline.com/careers/job/4114464003/?gh_jid=4114464003) | South San Francisco, CA | Present | Embedded Systems | 
