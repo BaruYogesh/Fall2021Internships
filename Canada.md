@@ -16,3 +16,4 @@
 | [RBC](https://jobs.rbc.com/ca/en/job/RBCAA0088354757EXTERNALENCA/Software-Developer-Fall-Student-2021-Opportunities) | Toronto | Present | |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Ontario---Remote/Fall-2021-Co-op---Software-Engineer--Fullstack----Revenue-Cloud_JR94670-1) | Toronto | Present | [Heroku](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Ontario---Remote/Fall-2021-Co-op---Software-Engineer--Backend----Heroku-Data_JR94645-1?source=LinkedIn_Jobs) position |
 | [Microsoft](https://careers.microsoft.com/us/en/job/1038027/Intern-Opportunities-for-Students-Software-Engineer-Fall-2021-Start-Date) | Various | Present | |
+| [EA](https://ea.gr8people.com/jobs/165588/fall-2021-8-month-software-engineer-co-op-gameplay-services?sid=4) | Vancouver | Present | |
