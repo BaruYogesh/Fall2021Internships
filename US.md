@@ -50,3 +50,4 @@
 | [Teradyne](https://jobs.teradyne.com/job/North-Reading-Applications-Product-Support-Engineering-Coop-Fall-2021-MA-01864/722635000/?feedId=320000&utm_source=Indeed&codes=WBIND) | North Reading, MA | Present | App/Product Support Engineering | 
 | [Fractal](https://www.notion.so/Fractal-Job-Board-a39b64712f094c7785f588053fc283a9) | Remote/NYC | Present | Backend, Full-Stack, and Systems positions |
 | [Motional](https://boards.greenhouse.io/motional/jobs/4309689003) | Boston, MA | Present | |
+| [Blackberry](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Austin-Texas/Software-SDAT-Engineer-Intern---Fall-Term_20210479-1) | Austin, TX & Portland, OR | Present | SDAT |
