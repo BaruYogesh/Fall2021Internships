@@ -68,3 +68,6 @@
 | [Rubrik](https://www.rubrik.com/en/company/careers/departments/job.3058806?gh_jid=3058806) | Palo Alto, CA | Present | |
 | [Zipline](https://flyzipline.com/careers/job/4114464003/?gh_jid=4114464003) | South San Francisco, CA | Present | Embedded Systems | 
 | [Coinbase](https://www.coinbase.com/careers/positions/1724656) | Remote | Present | |
+| [WarnerMedia](https://www.linkedin.com/jobs/view/2555111311) | New York, NY | Present | |
+| [Rippling](https://www.linkedin.com/jobs/view/2534737791) | SF/Remote | Present | | 
+| [National Instruments](https://www.linkedin.com/jobs/view/2569297046) | Austin, TX | Present | |
