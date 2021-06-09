@@ -71,4 +71,6 @@
 | [WarnerMedia](https://www.linkedin.com/jobs/view/2555111311) | New York, NY | Present | |
 | [Rippling](https://www.linkedin.com/jobs/view/2534737791) | SF/Remote | Present | | 
 | [National Instruments](https://www.linkedin.com/jobs/view/2569297046) | Austin, TX | Present | |
-| [Verkada](https://jobs.lever.co/verkada/cd7cd0cb-a9b3-4d6d-a0e8-e8d0873dffab) | San Mateo, CA | Present |
+| [Verkada](https://jobs.lever.co/verkada/cd7cd0cb-a9b3-4d6d-a0e8-e8d0873dffab) | San Mateo, CA | Present | | 
+| [Cambly](https://www.linkedin.com/jobs/view/2583543353) | San Francisco, CA | Present | |
+| [Rivian](https://www.linkedin.com/jobs/view/2577849288) | Palo Alto, CA | Present | |
