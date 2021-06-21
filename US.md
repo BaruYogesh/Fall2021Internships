@@ -18,7 +18,7 @@
 | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=2530618&gh_src=240b46771) | Remote - USA | Closed | |
 | [PathAI](https://www.pathai.com/careers/5007708002?gh_jid=5007708002) | No Given Location | Closed | |
 | [Tesla](https://www.tesla.com/careers/search/?country=US&department=3&query=fall%202021) | Palo Alto, CA | Present | Many Positions | 
-| [Credit Karma](https://boards.greenhouse.io/creditkarma/jobs/4361377003) | Charlotte, NC | Present | Must be willing to relocate to Charlotte, NC |
+| [Credit Karma](https://boards.greenhouse.io/creditkarma/jobs/4361377003) | Charlotte, NC | Closed | Must be willing to relocate to Charlotte, NC |
 | [Flex](https://www.linkedin.com/jobs/view/2383856784) | Boston, MA | Closed | Required to be available for 6 months full-time |
 | [MyCase](https://www.linkedin.com/jobs/view/2397421589) | San Diego, CA | Closed | June-December 2021 |
 | [SPX Corporation](https://www.linkedin.com/jobs/view/2247971416) | East Stroudsburg, PA | Closed | Summer-Fall 2021 |
@@ -59,12 +59,12 @@
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer-Intern---Fall-2021_JR1941950-1) | Santa Clara, CA | Present | |
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | Multiple | Present | |
 | [Coursera](https://jobs.lever.co/coursera/a9899973-418a-4249-af07-744f9227a9b1) | Remote, OR | Present | |
-| [Anduril](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135) | Irvine, CA | Present | Perception | 
+| [Anduril](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135) | Irvine, CA | Closed | Perception | 
 | [NerdWallet](https://jumpstart.me/discover/jobs/nerd-wallet/data-science-intern/502fa8db-9dac-4db5-8444-bdeca6503fd2) | San Francisco, CA or Remote US | Present | Data Science, September to December |
 | [Google](https://careers.google.com/jobs/results/85454461436076742-software-engineering-intern-bachelors-fall-2021/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&distance=50&employment_type=FULL_TIME&employment_type=INTERN&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&q=fall) | Multiple | Present | Bachelor's, Master's, PhD |
 | [PagerDuty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) | Remote | Present | Android, iOS, and Software Developer | 
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5076311002?gh_src=13c38d562us) | Mountain View, CA | Present | |
-| [Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Engineering/job/Bellevue-WA/Infrastructure-Engineer-Intern--Fall-2021-_R4492-1) | Bellevue, WA | Present | |
+| [Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Engineering/job/Bellevue-WA/Infrastructure-Engineer-Intern--Fall-2021-_R4492-1) | Bellevue, WA | Closed | |
 | [Rubrik](https://www.rubrik.com/en/company/careers/departments/job.3058806?gh_jid=3058806) | Palo Alto, CA | Present | |
 | [Zipline](https://flyzipline.com/careers/job/4114464003/?gh_jid=4114464003) | South San Francisco, CA | Present | Embedded Systems | 
 | [Coinbase](https://www.coinbase.com/careers/positions/1724656) | Remote | Present | |
