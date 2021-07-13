@@ -76,3 +76,4 @@
 | [Cambly](https://www.linkedin.com/jobs/view/2583543353) | San Francisco, CA | Present | |
 | [Rivian](https://www.linkedin.com/jobs/view/2577849288) | Palo Alto, CA | Present | |
 | [NBCUniversal](https://www.nbcunicareers.com/internships#open_pos) | Remote | Present | |
+| [Twitter](https://join.smartrecruiters.com/Twitter2/9bf67fe7-b200-437f-a0d5-95e7dfc819fb-twitter-2021-fall-internship) | Multiple | Present | Machine Learning, Software Engineering positions |
