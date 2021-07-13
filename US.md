@@ -63,6 +63,7 @@
 | [NerdWallet](https://jumpstart.me/discover/jobs/nerd-wallet/data-science-intern/502fa8db-9dac-4db5-8444-bdeca6503fd2) | San Francisco, CA or Remote US | Present | Data Science, September to December |
 | [MealMe](https://www.mealme.ai/careers) | San Francisco, CA or Remote US | Present | Software Engineering, Marketing, Operations, and Graphic Design internships available year-round |
 | [Google](https://careers.google.com/jobs/results/85454461436076742-software-engineering-intern-bachelors-fall-2021/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&distance=50&employment_type=FULL_TIME&employment_type=INTERN&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&q=fall) | Multiple | Present | Bachelor's, Master's, PhD |
+<<<<<<< HEAD
 | [PagerDuty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) | Remote | Present | Android, iOS, and Software Developer | 
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5076311002?gh_src=13c38d562us) | Mountain View, CA | Present | |
 | [Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Engineering/job/Bellevue-WA/Infrastructure-Engineer-Intern--Fall-2021-_R4492-1) | Bellevue, WA | Present | |
@@ -76,4 +77,6 @@
 | [Cambly](https://www.linkedin.com/jobs/view/2583543353) | San Francisco, CA | Present | |
 | [Rivian](https://www.linkedin.com/jobs/view/2577849288) | Palo Alto, CA | Present | |
 | [NBCUniversal](https://www.nbcunicareers.com/internships#open_pos) | Remote | Present | |
+=======
+>>>>>>> 28a7af816a614269c026579d4ce42679069895bb
 | [Twitter](https://join.smartrecruiters.com/Twitter2/9bf67fe7-b200-437f-a0d5-95e7dfc819fb-twitter-2021-fall-internship) | Multiple | Present | Machine Learning, Software Engineering positions |
