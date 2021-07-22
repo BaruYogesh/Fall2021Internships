@@ -61,6 +61,7 @@
 | [Coursera](https://jobs.lever.co/coursera/a9899973-418a-4249-af07-744f9227a9b1) | Remote, OR | Present | |
 | [Anduril](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135) | Irvine, CA | Present | Perception | 
 | [NerdWallet](https://jumpstart.me/discover/jobs/nerd-wallet/data-science-intern/502fa8db-9dac-4db5-8444-bdeca6503fd2) | San Francisco, CA or Remote US | Present | Data Science, September to December |
+| [MealMe](https://www.mealme.ai/careers) | San Francisco, CA or Remote US | Present | Software Engineering, Marketing, Operations, and Graphic Design internships available year-round |
 | [Google](https://careers.google.com/jobs/results/85454461436076742-software-engineering-intern-bachelors-fall-2021/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&distance=50&employment_type=FULL_TIME&employment_type=INTERN&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&q=fall) | Multiple | Present | Bachelor's, Master's, PhD |
 | [PagerDuty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) | Remote | Present | Android, iOS, and Software Developer | 
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5076311002?gh_src=13c38d562us) | Mountain View, CA | Present | |
@@ -82,3 +83,4 @@
 | [Hewlett Packard Enterprises](https://www.linkedin.com/jobs/view/2603622953) | Houston, TX | | 
 | [Vertica](https://www.linkedin.com/jobs/view/2655952216) | Cambridge, MA | | 
 | [Dolby Laboratories](https://www.linkedin.com/jobs/view/2619853814) | San Francisco, CA | | 
+| [Twitter](https://join.smartrecruiters.com/Twitter2/9bf67fe7-b200-437f-a0d5-95e7dfc819fb-twitter-2021-fall-internship) | Multiple | Present | Machine Learning, Software Engineering positions |
