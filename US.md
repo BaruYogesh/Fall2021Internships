@@ -75,3 +75,10 @@
 | [Cambly](https://www.linkedin.com/jobs/view/2583543353) | San Francisco, CA | Present | |
 | [Rivian](https://www.linkedin.com/jobs/view/2577849288) | Palo Alto, CA | Present | |
 | [NBCUniversal](https://www.nbcunicareers.com/internships#open_pos) | Remote | Present | |
+| [Apple](https://www.linkedin.com/jobs/view/2650027857) | Austin, TX | Present | Recycling Innovation Engineering |
+| [Wish](https://www.linkedin.com/jobs/view/2655910617) | SF/Remote | Present | Android |
+| [UKG](https://www.linkedin.com/jobs/view/2654911088) | US/Remote | Present | |
+| [Sigma Computing](https://www.linkedin.com/jobs/view/2648296862) | San Francisco, CA | |
+| [Hewlett Packard Enterprises](https://www.linkedin.com/jobs/view/2603622953) | Houston, TX | | 
+| [Vertica](https://www.linkedin.com/jobs/view/2655952216) | Cambridge, MA | | 
+| [Dolby Laboratories](https://www.linkedin.com/jobs/view/2619853814) | San Francisco, CA | | 
